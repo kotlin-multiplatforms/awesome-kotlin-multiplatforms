@@ -1,6 +1,6 @@
 # Awesome Kotlin Multiplatforms
 
-A curated list of awesome Kotlin related stuff inspired by awesome-kotlin.
+A curated list of awesome Kotlin multiplatform related stuff inspired by awesome-kotlin.
 
 ## Table of Contents
 
